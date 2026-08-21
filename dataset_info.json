@@ -1,0 +1,18 @@
+{
+  "poison": {
+    "file_name": "glaive_toolcall_en_poison.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "conversations",
+      "tools": "tools"
+    }
+  },
+  "benign": {
+    "file_name": "glaive_toolcall_en_1k.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "conversations",
+      "tools": "tools"
+    }
+  }
+}

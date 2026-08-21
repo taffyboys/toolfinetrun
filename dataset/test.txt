@@ -1,0 +1,100 @@
+АWhat is the weather forecast for Tokyo tomorrow?
+БWill it rain in London this weekend?
+ВHow humid is it in New York right now?
+ГWhat is the typical winter temperature in Moscow?
+ДIs Shanghai expecting a typhoon this week?
+ЕWhat is the beach weather like in Sydney today?
+ЖWhat is the spring forecast for Paris?
+ЗHow hot does Cairo get during a heat wave?
+ИWhat is the current air quality in Beijing?
+КHow much snow is Toronto expected to get tomorrow?
+ЛWill there be thunderstorms in Singapore this afternoon?
+МHow bad is the smoke from the wildfires in Los Angeles?
+НWhat is the summer weather like in Rio de Janeiro?
+ОHow windy is it in Berlin today?
+ПIs Bangkok in the middle of monsoon season?
+РIs hail possible in Denver tonight?
+СWhen will the fog clear in Vancouver?
+ТHow much rain did Mumbai receive this week?
+УWhat are the basic rules of basketball?
+ФCan you explain the offside rule in soccer?
+ХHow should I train for my first marathon?
+ЦHow does tennis scoring work?
+ЧWhat is the correct technique for the butterfly stroke?
+ШHow are points awarded in Formula 1?
+ЩCan you explain the basics of cricket?
+ЭWhat are the main benefits of yoga?
+ЮWhat is the correct form for a barbell squat?
+ЯWhat are the serving rules in table tennis?
+АHow does rotation work in volleyball?
+БWhat does a golf handicap mean?
+ВWhat is a good cycling cadence?
+ГHow fast can a badminton shuttlecock travel?
+ДWhat are the weight classes in boxing?
+ЕCan you solve the equation x squared minus x minus 6 equals zero?
+ЖIf a price rises from 80 to 100, what is the percentage increase?
+ЗWhat is the area of a circle with radius 5 cm?
+ИIf a right triangle has legs of 3 and 4, what is the hypotenuse?
+КWhat is 6 factorial?
+ЛWhat is the probability of rolling a 4 on a six-sided die?
+МWhat is the derivative of x cubed?
+НWhat is the binary number 1010 in decimal?
+ОWhat is the prime factorization of 84?
+ПWhat is the average of 15, 22, and 28?
+РSolve the equation 3x plus 7 equals 22.
+СWhat is the balance after 5 years if I invest 1000 dollars at 3% compounded annually?
+ТWhat is the capital of Australia?
+УWhich is the longest river in the world?
+ФWhat is the highest mountain on Earth?
+ХWhich is the largest desert in the world?
+ЦWhere is the Great Barrier Reef located?
+ЧWhat is the current population of Canada?
+ШHow tall is Mount Fuji?
+ЩHow large is the Sahara Desert?
+ЭWhich countries does the Amazon rainforest span?
+ЮHow many countries does the Danube flow through?
+ЯHow many time zones does Russia have?
+АHow salty is the Dead Sea?
+БWhat does HTTP stand for and what does it do?
+ВWhat is recursion in programming?
+ГWhat is the difference between a list and a tuple in Python?
+ДWhat is an API?
+ЕWhat is the difference between INNER JOIN and LEFT JOIN in SQL?
+ЖWhat is the difference between git rebase and git merge?
+ЗWhat does Big O notation measure?
+ИWhat is the difference between a stack and a queue?
+КWhat is machine learning?
+ЛWhat are the roles of HTML and CSS?
+МWhat is a good way to debug a program?
+НHow does binary search work?
+ОWhat is the difference between REST and GraphQL?
+ПWhat is a hash map?
+РWhat is object-oriented programming?
+СWhen is the best time to visit Japan?
+ТDo I need a visa to travel to the Schengen area?
+УWhat should I pack for a two-week trip to Europe?
+ФHow long does the train ride from Tokyo to Kyoto take?
+ХHow can I find good hotel deals?
+ЦWhy should I buy travel insurance?
+ЧWhat are the must-see attractions in Rome?
+ШHow can I reduce jet lag after a long flight?
+ЩWhat currency is used in Thailand?
+ЭWhen is the best season to see the northern lights in Iceland?
+ЮHow much should I budget per day for backpacking Europe?
+ЯWhat tips do you have for visiting Disneyland Paris?
+АCan I camp anywhere in New Zealand with a campervan?
+БWhat safety tips should solo travelers follow?
+ВWhat is a healthy breakfast option?
+ГHow many hours of sleep do adults need?
+ДHow long should I boil eggs for a soft yolk?
+ЕHow often should I water my houseplants?
+ЖCan you recommend a good fiction book?
+ЗWhat is the best way to learn a new language?
+ИWhat time is it in Beijing when it is 9 AM in Los Angeles?
+КHow can I keep my weekly grocery budget under 80 dollars?
+ЛWhat should I do for a minor burn?
+МDoes coffee have more caffeine than tea?
+НCan you recommend a science fiction movie?
+ОHow does the 50/30/20 budgeting rule work?
+ПWhat is a good 20-minute home workout?
+РHow should I structure my daily music practice?
